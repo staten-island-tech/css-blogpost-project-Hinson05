@@ -7,8 +7,10 @@ body {
 }
 h1 {
   color: #edede9;
+  font-family: "Fjalla One", sans-serif;
 }
 .background {
   background-color: #343a40;
   padding: 5px 5px;
+  background-image: url(Img/Background\ CSS.png);
 }
